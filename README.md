@@ -4,8 +4,8 @@
 
 # Blade css.gg Icons
 
-<a href="https://github.com/2zt/blade-cssgg/actions?query=workflow%3ATests">
-    <img src="https://github.com/blade-ui-kit/blade-cssgg/workflows/Tests/badge.svg" alt="Tests">
+<a href="https://github.com/2zt/blade-cssgg/actions/workflows/tests.yml">
+    <img src="https://github.com/2zt/blade-cssgg/actions/workflows/tests.yml/badge.svg" alt="Tests">
 </a>
 <a href="https://packagist.org/packages/2zt/blade-cssgg">
     <img src="https://img.shields.io/packagist/v/2zt/blade-cssgg" alt="Latest Stable Version">
