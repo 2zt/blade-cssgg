@@ -7,11 +7,17 @@
 <a href="https://github.com/2zt/blade-cssgg/actions/workflows/tests.yml">
     <img src="https://github.com/2zt/blade-cssgg/actions/workflows/tests.yml/badge.svg" alt="Tests">
 </a>
+<a href="https://github.com/2zt/blade-cssgg/blob/main/LICENSE.md">
+    <img src="https://img.shields.io/github/license/2zt/blade-cssgg" alt="GitHub license">
+</a>
 <a href="https://packagist.org/packages/2zt/blade-cssgg">
     <img src="https://img.shields.io/packagist/v/2zt/blade-cssgg" alt="Latest Stable Version">
 </a>
 <a href="https://packagist.org/packages/2zt/blade-cssgg">
     <img src="https://img.shields.io/packagist/dt/2zt/blade-cssgg" alt="Total Downloads">
+</a>
+<a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2F2zt%2Fblade-cssgg">
+    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2F2zt%2Fblade-cssgg" alt="Twitter">
 </a>
 
 A package to easily make use of [css.gg](https://github.com/astrit/css.gg) in your Laravel Blade views.
@@ -86,13 +92,13 @@ Check out the [CHANGELOG](CHANGELOG.md) in this repository for all the recent ch
 
 ## Maintainers
 
-Blade css.gg is developed and maintained by 2zt.
+Blade css.gg is developed and maintained by [2zt](https://github.com/2zt).
 
 ## Credit
 
-css.gg is made by [Astrit Malsia](https://github.com/astrit/css.gg).
+css.gg is originally made by [Astrit Malsia](https://github.com/astrit/css.gg).
 
-Support the author of css.gg:
+Support the author of css.gg :
 | Donate          | Link                               |
 | :-------------- | :----------------------------------|
 | Github Sponsor  | https://github.com/sponsors/astrit |
